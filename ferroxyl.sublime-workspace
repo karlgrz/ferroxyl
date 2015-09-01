@@ -1,0 +1,1430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GetChann",
+				"GetChannelSlugFromEpisodeSlug(Row row)	string"
+			],
+			[
+				"appli",
+				"applicationguid"
+			],
+			[
+				"contentsource",
+				"contentsourceguid"
+			],
+			[
+				"Curr",
+				"CurrentDomainGuid()	string"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"epi",
+				"episodeid"
+			],
+			[
+				"navigat",
+				"navigationguid"
+			],
+			[
+				"episode",
+				"episodeguid"
+			],
+			[
+				"device",
+				"deviceguid"
+			],
+			[
+				"Miss",
+				"MissingContentSourceId	string"
+			],
+			[
+				"content",
+				"contentSourceFromApi	ContentSource"
+			],
+			[
+				"conten",
+				"contentSourceFromApi	ContentSource"
+			],
+			[
+				"Pri",
+				"PrivacyModeExemptCountries	List<string> { get; set; }"
+			],
+			[
+				"Pr",
+				"PrivacyModeExemptCountries	List<string> { get; set; }"
+			],
+			[
+				"M",
+				"Models	Models"
+			],
+			[
+				"Get",
+				"GetUserInNonPrivacyModeCountry()	AuthenticationResult"
+			],
+			[
+				"pric",
+				"privacyModeUser	bool"
+			],
+			[
+				"ac",
+				"access_token"
+			],
+			[
+				"View",
+				"ViewsByItemGridRecord	ViewsByItemGridRecord"
+			],
+			[
+				"Grid",
+				"GridOutputAttribute	GridOutputAttribute"
+			],
+			[
+				"column",
+				"columnHeaders	IEnumerable<string> { get; set; }"
+			],
+			[
+				"c",
+				"columns	IEnumerable<string> { get; set; }"
+			],
+			[
+				"Chann",
+				"ChannelSlug"
+			],
+			[
+				"GetT",
+				"GetViewModelTestingCSVOnlyProperties()	ReportingViewModel"
+			],
+			[
+				"Views",
+				"ViewsByItemGridRecord()	ViewsByItemGridRecord()"
+			],
+			[
+				"grid",
+				"GridModel"
+			],
+			[
+				"Test_Channel",
+				"Test_Channel_Slug"
+			],
+			[
+				"Test_Episode",
+				"Test_Episode_Slug"
+			],
+			[
+				"N",
+				"Country	string { get; set; }"
+			],
+			[
+				"chartCoun",
+				"chartCountryTotal"
+			],
+			[
+				"C",
+				"Country	string { get; set; }"
+			],
+			[
+				"con",
+				"converted	string[]"
+			],
+			[
+				"top",
+				"topChartCriteria	IList<TopChartCriterion>"
+			],
+			[
+				"crt",
+				"criterion	TopChartCriterion"
+			],
+			[
+				"Char",
+				"ChartSeries	IEnumerable<ChartSeries> { get; set; }"
+			],
+			[
+				"all",
+				"allCountries"
+			],
+			[
+				"char",
+				"chartCountryTotals	IEnumerable<ChartSeriesModel>"
+			],
+			[
+				"T",
+				"TotalSeconds	double { get; }"
+			],
+			[
+				"run",
+				"rundateTo	string"
+			],
+			[
+				"rune",
+				"rundateFrom	string"
+			],
+			[
+				"runda",
+				"rundateTo	string"
+			],
+			[
+				"RunDa",
+				"RunDateTo	DateTime { get; set; }"
+			],
+			[
+				"Run",
+				"RunDateFrom	DateTime { get; set; }"
+			],
+			[
+				"Argumentn",
+				"ArgumentNotNull(string paramName, object paramValue)	void"
+			],
+			[
+				"Metr",
+				"MetricService	IMetricService { get; set; }"
+			],
+			[
+				"Argu",
+				"ArgumentNotNull(string paramName, object paramValue)	void"
+			],
+			[
+				"Arg",
+				"ArgumentNotNull(string paramName, object paramValue)	void"
+			],
+			[
+				"_",
+				"_mockRepository"
+			],
+			[
+				"A",
+				"AddDuration(string operationClass, TimeSpan duration)	void"
+			],
+			[
+				"oper",
+				"operationClass	string"
+			],
+			[
+				"Regi",
+				"RegisterConfig"
+			],
+			[
+				"s",
+				"Split(char[] separator, int count)	string[]"
+			],
+			[
+				"cloud",
+				"cloudboot_api"
+			],
+			[
+				"ipA",
+				"ipAddress	string"
+			],
+			[
+				"ipAdd",
+				"ipAddressList	List<string>"
+			],
+			[
+				"ip",
+				"ipAddress"
+			],
+			[
+				"IUNit",
+				"IUnitOfWorkFactory	IUnitOfWorkFactory"
+			],
+			[
+				"Debu",
+				"DebugFormat(string format, object arg0)	void"
+			],
+			[
+				"ChannelSlug",
+				"ChannelSlugToChannelOperation	ChannelSlugToChannelOperation"
+			],
+			[
+				"Reg",
+				"RegionFromGroups"
+			],
+			[
+				"Contents",
+				"ContentSourceId"
+			],
+			[
+				"line",
+				"linecount"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"in",
+				"instructions_file_path"
+			],
+			[
+				"inst",
+				"instructions_type"
+			],
+			[
+				"warehouse",
+				"warehousepath"
+			],
+			[
+				"instric",
+				"instructions_file_path"
+			],
+			[
+				"instr",
+				"instructions_file_path"
+			],
+			[
+				"DeviceId",
+				"DeviceId_DB"
+			],
+			[
+				"ou",
+				"outputCount	int"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"file",
+				"filepathzip"
+			],
+			[
+				"exe",
+				"executionpath"
+			],
+			[
+				"MediaflyWarehuose",
+				"MediaflyWarehouseAPI"
+			],
+			[
+				"GetChan",
+				"GetChannelSlugFromEpisodeSlug"
+			],
+			[
+				"chann",
+				"channelSlug"
+			],
+			[
+				"conte",
+				"contentsource"
+			],
+			[
+				"Serv",
+				"ServiceCertificate"
+			],
+			[
+				"Wa",
+				"WarehouseService	IWarehouseService { get; set; }"
+			],
+			[
+				"Comm",
+				"CommitCount	int"
+			],
+			[
+				"Se",
+				"SessionFactory"
+			],
+			[
+				"IWa",
+				"IWarehouseEntity	IWarehouseEntity"
+			],
+			[
+				"Grou",
+				"GroupModel	GroupModel"
+			],
+			[
+				"channe",
+				"channelName	string"
+			],
+			[
+				"Json",
+				"JsonProperty"
+			],
+			[
+				"query",
+				"queryObject	IQuery"
+			],
+			[
+				"date",
+				"dateRangeTo	DateTime"
+			],
+			[
+				"da",
+				"dateRangeTo	DateTime"
+			],
+			[
+				"Episode",
+				"EpisodeSlugToEpisodeIdLookup	EpisodeSlugToEpisodeIdLookup"
+			],
+			[
+				"IsNo",
+				"IsNotNull(object anObject)	void"
+			],
+			[
+				"Epis",
+				"EpisodeSlugToEpisodeIdLookup(IEpisodeLookup episodeLookup, IEntityLoader entityLoader, IWarehouseService warehouseService)	EpisodeSlugToEpisodeIdLookup(IEpisodeLookup episodeLookup, IEntityLoader entityLoader, IWarehouseService warehouseService)"
+			],
+			[
+				"Loa",
+				"LoadEpisode(string contentSource, string slug)	Episode"
+			],
+			[
+				"created",
+				"createdDate	DateTime"
+			],
+			[
+				"End",
+				"End(DateTime created)	void"
+			],
+			[
+				"IWare",
+				"IWarehouseService	IWarehouseService"
+			],
+			[
+				"GetA",
+				"GetApplication(string id)	Mediafly.API.Client.Application"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/xbuild.sublime-build",
+					""
+				],
+				[
+					"Packages/User/xbuild.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/xbuild.sublime-build",
+					"ReBuild"
+				]
+			],
+			[
+				"Packages/User/xbuild.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"url",
+				"URL Encode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"URL",
+				"URL Decode"
+			],
+			[
+				"Build",
+				"Build: New Build System"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 751.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/karl/workspace/ferroxyl"
+	],
+	"file_history":
+	[
+		"/home/karl/mediafly/mediafly-box-sync/box_products.txt",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/ChannelSlugToChannelOperation.cs",
+		"/home/karl/mediafly/actions/run/actions.2015-04-05.log.json.igus",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0000_to_0001_InitializeDatabase.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0037_to_0038_remove_the_redundant_migration_guids.sql",
+		"/home/karl/Dropbox/Mediafly/Database_Backups/Warehouse_Queries.sql",
+		"/home/karl/Desktop/ViewsByItem_07.01.2015_08.10.2015.csv",
+		"/home/karl/Desktop/ViewsByItem_07.31.2015_08.31.2015.csv",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0038_to_0039_add_operations_indexes.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Rakefile.rb",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0036_to_0037_merge_environments_into_prodwarehouse.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0035_to_0036_dimension_table_guid_mappings.sql",
+		"/home/karl/Desktop/dblink.sql",
+		"/home/karl/Desktop/warehouse_migration_progress.txt",
+		"/home/karl/Desktop/json.csv",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Config/WarehouseRegistry.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Config/WarehouseMultitenantModule.cs",
+		"/home/karl/mediafly/mediafly-warehouse/config/production/ReportingConfig.json",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ReportingQueryBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/Config/WarehouseETLRegistry.cs",
+		"/home/karl/mediafly/mediafly-warehouse/config/production/DatabaseConfig.Warehouse.json",
+		"/home/karl/mediafly/mediafly-warehouse/config/mangi/DatabaseConfig.Warehouse.json",
+		"/home/karl/mediafly/mediafly-warehouse/config/integration/DatabaseConfig.Warehouse.json",
+		"/home/karl/mediafly/mediafly-warehouse/config/development/DatabaseConfig.Warehouse.json",
+		"/home/karl/mediafly/mediafly-warehouse/config/deathstar/DatabaseConfig.Warehouse.json",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.API.DeviceClient/Impl/DeviceAPIClient.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/WarehouseDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/config/deathstar/ReportingConfig.json",
+		"/home/karl/Desktop/vpn_backup/vpn-16162.conf",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.API/Global.asax.cs",
+		"/home/karl/meta.json",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0032_to_0033_Operations_UserName.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0030_to_0031_Operations.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL.Tests/EpisodeSlugToEpisodeIdLookupTests.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/EpisodeSlugToEpisodeIdLookup.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Lookup/WarehouseService.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0026_to_0027_MissingUsername_Migration.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/SourceGuidToContentSourceIdLookup.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL.Tests/SourceGuidToContentSourceIdLookupTests.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0029_to_0030_GeneratePrivateUsernamesForExistingRecords.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0034_to_0035_readonly_user.sql",
+		"/home/karl/mediafly/mediafly-config/production/images/ImageServerConfig.json",
+		"/home/karl/mediafly/pc_transfer/hosts",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETLRunner/Program.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Database/0033_to_0034_Views_Email.sql",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Lookup/ApplicationLookup.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/DeviceApiOperationBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/ApplicationIdToNameLookupFromAPI.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/LoadViews.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.API.DeviceClient/Core/IDeviceAPIClient.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL/UsernameLookupFromContext.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.API.DeviceClient.Tests/Impl/DeviceAPIClientTests.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL.Tests/UsernameLookupFromContextTests.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.Migrations/RemaxSSITokenToUsernames.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Database/Remax_SSITokenToUsername_ManualMigration.sql",
+		"/home/karl/mediafly/mediafly-warehouse/build/remax_ssitokens.txt",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.Migrations/Config/MigrationsRegistry.cs",
+		"/home/karl/mediafly/mediafly-warehouse/warehouse/runwarehouseetl.py",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.API/Controllers/StatusController.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.API/Controllers/SummaryController.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/SummaryModel.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/StatusModel.cs",
+		"/home/karl/mediafly/mediafly-launchpad/mediafly-launchpad-api/Mediafly.Launchpad.API/Mediafly.Launchpad.API.csproj",
+		"/home/karl/mediafly/mediafly-launchpad/mediafly-launchpad-api/Mediafly.Launchpad.API/Mediafly.Launchpad.API.csproj.orig",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Mediafly.Warehouse.csproj",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.API.Client.Base/Core/Models/BaseResponse.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUserReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByUserViewModelBuilder.cs",
+		"/home/karl/Desktop/accounts.json",
+		"/home/karl/Desktop/account-permissions.json",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.API/Controllers/ReportsController.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.API.Client/Impl/WarehouseAPIClient.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.API.Client/Core/IWarehouseAPIClient.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUserActivityReportingDAO.cs",
+		"/home/karl/mediafly/Database_Backups/restore.sh",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.ETL.Tests/ApplicationIdToNameLookupFromAPITests.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/WarehouseQueryConstants.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/TopItemsByGroupReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/TopItemsByTwoGroupsReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewGroupComparisonByContentGroupReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByCityReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByCountryReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByRegionReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByChannelHierarchyViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByCityViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByCountryViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByGroupViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByItemRemaxViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByItemViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByRegionViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByUrlViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByUserActivityViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByUserRemaxViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/config/development/ReportingConfig.json",
+		"/home/karl/mediafly/mediafly-warehouse/config/integration/ReportingConfig.json",
+		"/home/karl/mediafly/mediafly-warehouse/config/windows/ReportingConfig.json",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse.API/config/current/ReportingConfig.json",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ApplicationUsageViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/DailyPlaylistSummaryViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/DailyPlaylistViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ItemViewingViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/LiveEventViewingViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/MostViewedItemsByDeviceAllViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/MostViewedItemsByDeviceMainstreetViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/NavigationsViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/NoneViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/PlayerViewingSummaryViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/PlayerViewingViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/SearchesViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/TimeOfDayViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/TimeViewedByItemViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/TopItemsByGroupViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/TopItemsByTwoGroupsViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewGroupComparisonByContentGroupViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/IViewModelBuilder.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Models/Reporting/GridModelFactory.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Lookup/Reporting/ReportingLookup.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/Lookup/Reporting/ViewsByUserViewModelLookup.cs",
+		"/home/karl/Dropbox/music_listening.txt",
+		"/home/karl/mediafly/mediafly-warehouse/warehouse/jobs.sh",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/APILog/SSITokenToUsernameDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/SearchesReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ApplicationUsageReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/NavigationsReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUrlReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUserRemaxReportingDAO.cs",
+		"/home/karl/mediafly/mediafly-warehouse/Mediafly.Warehouse/Server/DataAccess/Reporting/ItemViewingReportingDAO.cs"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+			"",
+			"*.cs",
+			"*.sql",
+			"*.cs",
+			"*.csproj",
+			"",
+			"*.py",
+			"",
+			"<open files>",
+			"/home/karl/mediafly/actions/sony/actions*.json",
+			"/home/karl/mediafly/actions/sony/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"collectionoperations",
+			"= ''",
+			"CREATE INDEX",
+			"\"id\"",
+			"id",
+			"new DatabaseConfig()",
+			"DROP INDEX",
+			"ContentSourceToFilter",
+			"Default",
+			"applications",
+			"ng.",
+			"d.i",
+			"navigations",
+			"showguid",
+			"'host=warehousedbcluster01.imediafly.com dbname=prodwarehouse2xdigital user=readonly password=DsE$$J2S`jJ=u~}O$?l.^q.Jb4G-KC|-'",
+			"CREATE INDEX",
+			"IsRemax",
+			"AccountsBaseUrl",
+			"domain",
+			"StatusModel",
+			"Action",
+			"CASE",
+			"date_trunc",
+			"query|!queryObject",
+			"WarehouseQueryConstants",
+			"Query",
+			"query",
+			"Query",
+			"query",
+			"Group",
+			"Group.Trim",
+			"FirstViewGroup",
+			"PostInfo",
+			"GetTotalCountOfViews",
+			"GetCountOfViews",
+			"GetCountOf",
+			"(IUnitOfWorkFactory unitOfWorkFactory, IDomainProvider domainProvider, IPermissionsService permissionsService, ReportingConfig config)\n			: base(unitOfWorkFactory, domainProvider, permissionsService, config)",
+			"ValueCache",
+			"Domain",
+			"IAuthenticationInformationProvider",
+			"Accounts",
+			"Mediafly.Warehouse.Server.Authentication",
+			"sed",
+			"ViewsByRegion",
+			"ViewsByCity",
+			"ViewsByItem",
+			"Searches",
+			"Integration",
+			"Build_SomePropertiesFlaggedOnlyForCSVOutput_VerifyThatOnlyExpectedPropertiesAreReturnedForCSV",
+			"WithViewsByItem",
+			"channelSlug",
+			"Console.WriteLine",
+			"columnWidth",
+			"..\\..\\mediafly-core\\libraries",
+			"<HintPath>..\\..\\mediafly-core\\Build",
+			"download",
+			"L'ange",
+			"$^\\n",
+			"FAILED",
+			"$^\\n",
+			"Could not determin",
+			"CountryCode = 'US', Region = 'CA', City = 'Hemet'",
+			"Created >= '2015-02-20' AND ",
+			"127.0.0.1",
+			"prod",
+			"CountryCode = '{NOT_FOUND}', Region = '{NOT_FOUND}', City = '{NOT_FOUND}'",
+			"127.0.0.1",
+			"Could",
+			"prod",
+			"{MissingChannelSlug}",
+			"^$\\n",
+			"Name = ''",
+			"domain",
+			"Cache",
+			"apiactions",
+			"Input file",
+			"runwarehouseetl",
+			"\"UserContext\":\"10019516\"",
+			"\"UserContext\":\"01047074\"",
+			"f6dcad29-d623-4d54-b099-924309807eaa#938627EE-14E8-4467-A003-9595AA3E58B2",
+			"qmxkey45nvwbwr2pv544da55",
+			"Total Views updated",
+			"updated",
+			"ViewSession",
+			"984a92027d404bc59c44a753a9aed425product174560",
+			"uuid",
+			"IsRemax",
+			"{",
+			"srv",
+			"s3cmd",
+			"Action\":\"sea",
+			"Position",
+			"UserHostAddress|IPAddress",
+			"UserHostAddress",
+			"/mnt/",
+			"CMD",
+			"IsRemax",
+			"Func<",
+			"Func<string, IChannelLookup>",
+			"Commit",
+			"Save",
+			"transaction",
+			".Output",
+			"output.csv",
+			"var unitOfWork",
+			"unitOfWorkFactory",
+			"IUnitOfWorkFactory",
+			"34ccccd96497400d9423ce88bac3d3dfproduct49",
+			"DEBUG Registering operation ApplicationIdToNameLookupFromAPI",
+			"Sony",
+			"ERROR ContentSourceId",
+			"exception",
+			"IOperation",
+			"common",
+			"2015",
+			"Currently processing row",
+			"mediafly:id",
+			"/home/karl/mediafly/Database_Backups/Current/",
+			"Source\":\"c0e",
+			"\"c0e",
+			"operation processed"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pinoperations",
+			"notificationoperations",
+			"noteoperations",
+			"loginoperations",
+			"is null",
+			"'host=db.mediafly.dev dbname=devwarehouseigus user=mediafly password=mediafly'",
+			"ViewsByCountry",
+			"ViewsByRegion",
+			"ViewsByCity",
+			"Navigations",
+			"<HintPath>..\\packages\\MediaflyCore",
+			"L''ange",
+			"",
+			"IPAddress",
+			"/srv/",
+			"/home/ubuntu/backups/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 279.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 208.0
+	},
+	"output.variable_get":
+	{
+		"height": 233.0
+	},
+	"pinned_build_system": "Packages/User/xbuild.sublime-build",
+	"project": "ferroxyl.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"channelslugto",
+				"Mediafly.Warehouse.ETL.Tests/ChannelSlugToChannelOperationTests.cs"
+			],
+			[
+				"rake",
+				"Rakefile.rb"
+			],
+			[
+				"warehousereg",
+				"Mediafly.Warehouse/Config/WarehouseRegistry.cs"
+			],
+			[
+				"warehousedao",
+				"Mediafly.Warehouse/Server/DataAccess/WarehouseDAO.cs"
+			],
+			[
+				"warehouseser",
+				"Mediafly.Warehouse/Server/Lookup/WarehouseService.cs"
+			],
+			[
+				"episodeslugto",
+				"Mediafly.Warehouse.ETL.Tests/EpisodeSlugToEpisodeIdLookupTests.cs"
+			],
+			[
+				"episodel",
+				"Mediafly.Warehouse.ETL/EpisodeSlugToEpisodeIdLookup.cs"
+			],
+			[
+				"source",
+				"Mediafly.Warehouse.ETL/SourceGuidToContentSourceIdLookup.cs"
+			],
+			[
+				"operationbuild",
+				"Mediafly.Warehouse.ETL/DeviceApiOperationBuilder.cs"
+			],
+			[
+				"applicationlook",
+				"Mediafly.Warehouse/Server/Lookup/ApplicationLookup.cs"
+			],
+			[
+				"applicationid",
+				"Mediafly.Warehouse.ETL/ApplicationIdToNameLookupFromAPI.cs"
+			],
+			[
+				"deviceapiclie",
+				"Mediafly.API.DeviceClient/Impl/DeviceAPIClient.cs"
+			],
+			[
+				"remaxssi",
+				"Mediafly.Warehouse.Migrations/RemaxSSITokenToUsernames.cs"
+			],
+			[
+				"usernamelookup",
+				"Mediafly.Warehouse.ETL/UsernameLookupFromContext.cs"
+			],
+			[
+				"deviceapicli",
+				"Mediafly.API.DeviceClient.Tests/Impl/DeviceAPIClientTests.cs"
+			],
+			[
+				"idevi",
+				"Mediafly.API.DeviceClient/Core/IDeviceAPIClient.cs"
+			],
+			[
+				"deviceapiclient",
+				"Mediafly.API.DeviceClient/Impl/DeviceAPIClient.cs"
+			],
+			[
+				"migra",
+				"Mediafly.Warehouse.Migrations/Config/MigrationsRegistry.cs"
+			],
+			[
+				"warehouseetl",
+				"Mediafly.Warehouse.ETL/Config/WarehouseETLRegistry.cs"
+			],
+			[
+				"runwa",
+				"warehouse/runwarehouseetl.py"
+			],
+			[
+				"summ",
+				"Mediafly.Warehouse.API/Controllers/SummaryController.cs"
+			],
+			[
+				"viewsbyuser",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUserReportingDAO.cs"
+			],
+			[
+				"viewsbyregion",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByRegionReportingDAO.cs"
+			],
+			[
+				"viewsbycoun",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByCountryReportingDAO.cs"
+			],
+			[
+				"viewsbycity",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByCityReportingDAO.cs"
+			],
+			[
+				"viewgroupcomparisonbycontent",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewGroupComparisonByContentGroupReportingDAO.cs"
+			],
+			[
+				"topitemsbytw",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/TopItemsByTwoGroupsReportingDAO.cs"
+			],
+			[
+				"topitemsbygrou",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/TopItemsByGroupReportingDAO.cs"
+			],
+			[
+				"warehousequer",
+				"Mediafly.Warehouse/Server/DataAccess/WarehouseQueryConstants.cs"
+			],
+			[
+				"warehouseapic",
+				"Mediafly.Warehouse.API.Client/Impl/WarehouseAPIClient.cs"
+			],
+			[
+				"viewsbyuserviewmode",
+				"Mediafly.Warehouse/Server/Lookup/Reporting/ViewsByUserViewModelLookup.cs"
+			],
+			[
+				"viewmodelb",
+				"Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewModelBuilder.cs"
+			],
+			[
+				"gridmodel",
+				"Mediafly.Warehouse/Server/Models/Reporting/GridModelFactory.cs"
+			],
+			[
+				"reportinglook",
+				"Mediafly.Warehouse/Server/Lookup/Reporting/ReportingLookup.cs"
+			],
+			[
+				"viewsbyuserac",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUserActivityReportingDAO.cs"
+			],
+			[
+				"job.sh",
+				"warehouse/jobs.sh"
+			],
+			[
+				"migr",
+				"Mediafly.Warehouse.Migrations/Config/MigrationsRegistry.cs"
+			],
+			[
+				"warehouseetlr",
+				"Mediafly.Warehouse.ETL/Config/WarehouseETLRegistry.cs"
+			],
+			[
+				"topitemsby",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/TopItemsByGroupReportingDAO.cs"
+			],
+			[
+				"viewsbyitemre",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByItemRemaxReportingDAO.cs"
+			],
+			[
+				"viewgroupcom",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewGroupComparisonByContentGroupReportingDAO.cs"
+			],
+			[
+				"viewsbychann",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByChannelHierarchyReportingDAO.cs"
+			],
+			[
+				"viewsbygrou",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByGroupReportingDAO.cs"
+			],
+			[
+				"viewsbyitem",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByItemReportingDAO.cs"
+			],
+			[
+				"timev",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/TimeViewedByItemReportingDAO.cs"
+			],
+			[
+				"none",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/NoneReportingDAO.cs"
+			],
+			[
+				"timeofda",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/TimeOfDayReportingDAO.cs"
+			],
+			[
+				"playerview",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/PlayerViewingSummaryReportingDAO.cs"
+			],
+			[
+				"playerviewingreportingd",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/PlayerViewingReportingDAO.cs"
+			],
+			[
+				"liveeventrepo",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/LiveEventViewingReportingDAO.cs"
+			],
+			[
+				"dailyplaylistreportingd",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/DailyPlaylistReportingDAO.cs"
+			],
+			[
+				"dailyplaylistsumma",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/DailyPlaylistSummaryReportingDAO.cs"
+			],
+			[
+				"mostvieweditemsbydevicema",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/MostViewedItemsByDeviceMainstreetReportingDAO.cs"
+			],
+			[
+				"most",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/MostViewedItemsByDeviceAllReportingDAO.cs"
+			],
+			[
+				"mostvieweditem",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/MostViewedItemsByDeviceReportingDAO.cs"
+			],
+			[
+				"mostviewe",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/MostViewedItemsByDeviceReportingDAO.cs"
+			],
+			[
+				"itemview",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ItemViewingReportingDAO.cs"
+			],
+			[
+				"viewsbyuserre",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUserRemaxReportingDAO.cs"
+			],
+			[
+				"viewsbyurlr",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUrlReportingDAO.cs"
+			],
+			[
+				"navigations",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/NavigationsReportingDAO.cs"
+			],
+			[
+				"applicationsagereport",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ApplicationUsageReportingDAO.cs"
+			],
+			[
+				"ssitok",
+				"Mediafly.Warehouse/Server/DataAccess/APILog/SSITokenToUsernameDAO.cs"
+			],
+			[
+				"warehousemulti",
+				"Mediafly.Warehouse/Config/WarehouseMultitenantModule.cs"
+			],
+			[
+				"searche",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/SearchesReportingDAO.cs"
+			],
+			[
+				"viewsbycit",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByCityReportingDAO.cs"
+			],
+			[
+				"viewbyreg",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByRegionReportingDAO.cs"
+			],
+			[
+				"ware",
+				"Mediafly.Warehouse/Server/DataAccess/WarehouseDAO.cs"
+			],
+			[
+				"reportingmod",
+				"Mediafly.Warehouse.API/ReportingModule.cs"
+			],
+			[
+				"permi",
+				"Mediafly.Warehouse/Server/Authentication/PermissionsService.cs"
+			],
+			[
+				"ipermis",
+				"Mediafly.Warehouse/Server/Authentication/IPermissionsService.cs"
+			],
+			[
+				"job",
+				"warehouse/jobs.sh"
+			],
+			[
+				"reportingconfig",
+				"config/deathstar/ReportingConfig.json"
+			],
+			[
+				"reportingconfig.cs",
+				"Mediafly.Warehouse.Public/Reporting/Config/ReportingConfig.cs"
+			],
+			[
+				"reportingconf",
+				"config/deathstar/ReportingConfig.json"
+			],
+			[
+				"gridmode",
+				"Mediafly.Warehouse.Tests/Server/Models/Reporting/GridModelFactoryTests.cs"
+			],
+			[
+				"mediafly.warehouse.csp",
+				"Mediafly.Warehouse/Mediafly.Warehouse.csproj"
+			],
+			[
+				"mediafly.warehouse.api.te",
+				"Mediafly.Warehouse.API.Tests/Mediafly.Warehouse.API.Tests.csproj"
+			],
+			[
+				"gridm",
+				"Mediafly.Warehouse/Server/Models/Reporting/GridModelFactory.cs"
+			],
+			[
+				"mediafly.ware",
+				"Mediafly.Warehouse.API/Mediafly.Warehouse.API.csproj"
+			],
+			[
+				"mediafly.warehouse.api.test",
+				"Mediafly.Warehouse.API.Tests/Mediafly.Warehouse.API.Tests.csproj"
+			],
+			[
+				"mediafly.warehouse.api.cs",
+				"Mediafly.Warehouse.API/Mediafly.Warehouse.API.csproj"
+			],
+			[
+				"reportingviewm",
+				"Mediafly.Warehouse.Public/Reporting/Models/ReportingViewModel.cs"
+			],
+			[
+				"reportscon",
+				"Mediafly.Warehouse.API.Tests/Controllers/ReportsControllerTests.cs"
+			],
+			[
+				"authenti",
+				"Mediafly.Warehouse/Server/Authentication/AuthenticationInformationProvider.cs"
+			],
+			[
+				"idoma",
+				"Mediafly.Warehouse/Server/Models/IDomainProvider.cs"
+			],
+			[
+				"authent",
+				"Mediafly.Warehouse/Server/Authentication/AuthenticationInformationProvider.cs"
+			],
+			[
+				"webre",
+				"Mediafly.Warehouse.API/Models/WebRequestDomainProvider.cs"
+			],
+			[
+				"iauth",
+				"Mediafly.Warehouse/Server/Authentication/IAuthenticationInformationProvider.cs"
+			],
+			[
+				"iaut",
+				"Mediafly.Warehouse/Server/Authentication/IAuthenticationInformationProvider.cs"
+			],
+			[
+				"command",
+				"Mediafly.Warehouse/Server/Models/CommandLineDomainProvider.cs"
+			],
+			[
+				"reportingvi",
+				"Mediafly.Warehouse.Public/Reporting/Models/ReportingViewModel.cs"
+			],
+			[
+				"webp",
+				"Mediafly.Warehouse.API/Models/WebAuthenticationDomainProvider.cs"
+			],
+			[
+				"warehouseda",
+				"Mediafly.Warehouse/Server/DataAccess/WarehouseDAO.cs"
+			],
+			[
+				"productacce",
+				"Mediafly.Warehouse.API/Utils/ProductAccessAttribute.cs"
+			],
+			[
+				"reportcontr",
+				"Mediafly.Warehouse.API/Controllers/ReportsController.cs"
+			],
+			[
+				"viewsbycountry",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByCountryReportingDAO.cs"
+			],
+			[
+				"searches",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/SearchesReportingDAO.cs"
+			],
+			[
+				"warehousequery",
+				"Mediafly.Warehouse/Server/DataAccess/WarehouseQueryConstants.cs"
+			],
+			[
+				"warehoused",
+				"Mediafly.Warehouse/Server/DataAccess/WarehouseDAO.cs"
+			],
+			[
+				"viewsbyusera",
+				"Mediafly.Warehouse/Server/DataAccess/Reporting/ViewsByUserActivityReportingDAO.cs"
+			],
+			[
+				"warehouseapimodul",
+				"Mediafly.Warehouse.API/ReportingModule.cs"
+			],
+			[
+				"viewmode",
+				"Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewModelBuilder.cs"
+			],
+			[
+				"viewsbyuserviewm",
+				"Mediafly.Warehouse/Server/Models/Reporting/ModelBuilder/ViewsByUserViewModelBuilder.cs"
+			],
+			[
+				"loadsea",
+				"Mediafly.Warehouse.ETL.Tests/LoadSearchesTests.cs"
+			],
+			[
+				"user",
+				"Mediafly.Warehouse.ETL.Tests/UsernameLookupFromContextTests.cs"
+			],
+			[
+				"loadsear",
+				"Mediafly.Warehouse.ETL.Tests/LoadSearchesTests.cs"
+			],
+			[
+				"rollup",
+				"Mediafly.Warehouse.ETL.Tests/RollupActionsToViewsTests.cs"
+			],
+			[
+				"roll",
+				"Mediafly.Warehouse.ETL/RollupActionsToViews.cs"
+			],
+			[
+				"userna",
+				"Mediafly.Warehouse.ETL/UsernameLookupFromContext.cs"
+			],
+			[
+				"loadv",
+				"Mediafly.Warehouse.ETL/LoadViews.cs"
+			],
+			[
+				"reportingconfig.json",
+				"config/deathstar/ReportingConfig.json"
+			],
+			[
+				"loadna",
+				"Mediafly.Warehouse.ETL.Tests/LoadNavigationsTests.cs"
+			],
+			[
+				"loadsearches",
+				"Mediafly.Warehouse.ETL.Tests/LoadSearchesTests.cs"
+			],
+			[
+				"naviga",
+				"Mediafly.Warehouse/Library/NavigationMap.cs"
+			],
+			[
+				"search",
+				"Mediafly.Warehouse/Library/SearchMap.cs"
+			],
+			[
+				"navig",
+				"Mediafly.Warehouse/Library/Navigation.cs"
+			],
+			[
+				"loadview",
+				"Mediafly.Warehouse.ETL.Tests/LoadViewsTests.cs"
+			],
+			[
+				"loadn",
+				"Mediafly.Warehouse.ETL/LoadNavigations.cs"
+			],
+			[
+				"loadsera",
+				"Mediafly.Warehouse.ETL/LoadSearches.cs"
+			],
+			[
+				"reportingc",
+				"Mediafly.Warehouse.Public/Reporting/Config/ReportingConfig.cs"
+			],
+			[
+				"reportingviewli",
+				"Mediafly.Warehouse.Public/Reporting/Models/ViewLite/ReportingViewLite.cs"
+			],
+			[
+				"view.",
+				"Mediafly.Warehouse/Library/View.cs"
+			],
+			[
+				"",
+				"Mediafly.Warehouse/Library/ViewMap.cs"
+			],
+			[
+				"viewmap",
+				"Mediafly.Warehouse/Library/ViewMap.cs"
+			],
+			[
+				"usernamelok",
+				"Mediafly.Warehouse.ETL.Tests/UsernameLookupFromContextTests.cs"
+			],
+			[
+				"reportingcon",
+				"Mediafly.Warehouse.Public/Reporting/Config/ReportingConfig.cs"
+			],
+			[
+				"warehouseconf",
+				"Mediafly.Warehouse/Config/WarehouseConfig.cs"
+			],
+			[
+				"reportingview",
+				"Mediafly.Warehouse.Public/Reporting/Models/ViewLite/ReportingViewLite.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

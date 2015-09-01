@@ -1,0 +1,9 @@
+[package]
+name = "ferroxyl"
+version = "0.1.0"
+authors = ["Karl Grzeszczak <karl@karlgrz.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+rustc-serialize = "*"
