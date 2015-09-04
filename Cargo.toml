@@ -7,3 +7,4 @@ authors = ["Karl Grzeszczak <karl@karlgrz.com>"]
 iron = "*"
 router = "*"
 rustc-serialize = "*"
+persistent = "*"
