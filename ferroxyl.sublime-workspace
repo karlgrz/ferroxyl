@@ -403,7 +403,15 @@
 			"file": "src/main.rs",
 			"settings":
 			{
-				"buffer_size": 1422,
+				"buffer_size": 1847,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Cargo.toml",
+			"settings":
+			{
+				"buffer_size": 173,
 				"line_ending": "Unix"
 			}
 		}
@@ -675,6 +683,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"HitCounter",
 			"collectionoperations",
 			"= ''",
 			"CREATE INDEX",
@@ -798,11 +807,12 @@
 			"operation processed"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"JobStore",
 			"pinoperations",
 			"notificationoperations",
 			"noteoperations",
@@ -838,15 +848,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1422,
+						"buffer_size": 1847,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								249,
-								249
+								204,
+								204
 							]
 						],
 						"settings":
@@ -856,10 +866,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 149.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Cargo.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -916,7 +954,7 @@
 	"project": "ferroxyl.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":

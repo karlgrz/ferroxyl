@@ -20,7 +20,7 @@ impl Key for JobStore { type Value = usize; }
 
 #[derive(Debug)]
 #[derive(RustcDecodable, RustcEncodable)]
-struct Job {
+pub struct Job {
     id: String,
     msg: String,
     count: usize
@@ -28,12 +28,11 @@ struct Job {
 
 fn status(request: &mut Request) -> IronResult<Response> {
     let mutex = request.get::<Write<JobStore>>().unwrap();
-    let mut count = mutex.lock().unwrap();
-
-    *count += 1;
+    let count = mutex.lock().unwrap();
 
     let ref id = request.extensions.get::<Router>().unwrap().find("id").unwrap_or("/");
-    let job = Job { id: id.to_string(), msg : "test".to_string(), count: *count };
+    let job = Job { id: id.to_string(), msg : "test".to_string(), count: *count};
+
     let payload = json::encode(&job).unwrap();
     Ok(Response::with((status::Ok, payload)))
 }
@@ -49,8 +48,8 @@ fn set_job(request: &mut Request) -> IronResult<Response> {
     let request: Job = json::decode(&payload).unwrap();
 
     *count += request.count;
-
     let job = Job { id: request.id, msg: request.msg, count: *count };
+
     let payload = json::encode(&job).unwrap();
     Ok(Response::with((status::Ok, payload)))
 }
@@ -63,6 +62,7 @@ fn main() {
     router.post("/job", set_job);
 
     let mut chain = Chain::new(router);
+
     chain.link(Write::<JobStore>::both(0));
 
     Iron::new(chain).http("localhost:3000").unwrap();
